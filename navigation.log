@@ -1,0 +1,19 @@
+Script started on 2026-07-05 23:59:43+05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="104" LINES="49"]
+[?2004h]0;bochale@practice: ~[01;32mbochale@practice[00m:[01;34m~[00m$ pwd
+[?2004l/home/bochale
+[?2004h]0;bochale@practice: ~[01;32mbochale@practice[00m:[01;34m~[00m$ ls /cd /etc[K[K[K[K[K[K[K
+[?2004l[0m[01;36mbin[0m   [01;34mdev[0m  [01;34mhome[0m  [01;36mlib[0m    [01;34mlost+found[0m  [01;34mmnt[0m  [01;34mproc[0m  [01;34mrun[0m   [01;34msnap[0m  [01;34msys[0m  [01;34musr[0m
+[01;34mboot[0m  [01;34metc[0m  [01;32minit[0m  [01;36mlib64[0m  [01;34mmedia[0m       [01;34mopt[0m  [01;34mroot[0m  [01;36msbin[0m  [01;34msrv[0m   [30;42mtmp[0m  [01;34mvar[0m
+[?2004h]0;bochale@practice: ~[01;32mbochale@practice[00m:[01;34m~[00m$ cd /etc
+[?2004l[?2004h]0;bochale@practice: /etc[01;32mbochale@practice[00m:[01;34m/etc[00m$ cd /var/log
+[?2004l[?2004h]0;bochale@practice: /var/log[01;32mbochale@practice[00m:[01;34m/var/log[00m$ ls /usr/bin | wc -l
+[?2004l905
+[?2004h]0;bochale@practice: /var/log[01;32mbochale@practice[00m:[01;34m/var/log[00m$ cd
+[?2004l[?2004h]0;bochale@practice: ~[01;32mbochale@practice[00m:[01;34m~[00m$ cd var
+[?2004lbash: cd: var: No such file or directory
+[?2004h]0;bochale@practice: ~[01;32mbochale@practice[00m:[01;34m~[00m$ cd /var
+[?2004l[?2004h]0;bochale@practice: /var[01;32mbochale@practice[00m:[01;34m/var[00m$ cd ![K~
+[?2004l[?2004h]0;bochale@practice: ~[01;32mbochale@practice[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2026-07-06 00:00:34+05:00 [COMMAND_EXIT_CODE="0"]
